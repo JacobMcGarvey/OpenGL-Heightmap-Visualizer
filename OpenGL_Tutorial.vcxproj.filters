@@ -93,16 +93,10 @@
     <Image Include="heightmap.jpg">
       <Filter>Resource Files\Textures</Filter>
     </Image>
-    <Image Include="heightmap1.png">
+    <Image Include="heightmap1.jpg">
       <Filter>Resource Files\Textures</Filter>
     </Image>
     <Image Include="heightmap2.jpg">
-      <Filter>Resource Files\Textures</Filter>
-    </Image>
-    <Image Include="heightmap3.jpg">
-      <Filter>Resource Files\Textures</Filter>
-    </Image>
-    <Image Include="heightmap4.jpg">
       <Filter>Resource Files\Textures</Filter>
     </Image>
   </ItemGroup>

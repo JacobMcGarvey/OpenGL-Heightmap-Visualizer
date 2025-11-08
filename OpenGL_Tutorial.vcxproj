@@ -171,10 +171,8 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="heightmap.jpg" />
-    <Image Include="heightmap1.png" />
+    <Image Include="heightmap1.jpg" />
     <Image Include="heightmap2.jpg" />
-    <Image Include="heightmap3.jpg" />
-    <Image Include="heightmap4.jpg" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
