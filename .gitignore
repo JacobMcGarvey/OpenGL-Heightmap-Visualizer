@@ -30,7 +30,6 @@
 *.lai
 *.la
 *.a
-*.lib
 
 # Executables
 *.exe
@@ -39,6 +38,7 @@
 
 # debug information files
 *.dwo
-/x64
 /.vs/OpenGL_Tutorial
+/x64
 /OpenGL_Tutorial/x64
+/main.cpp
